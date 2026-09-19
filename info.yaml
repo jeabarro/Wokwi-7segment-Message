@@ -4,7 +4,7 @@ project:
   title:        "Wokwi 7-Segment Message"      # Project title
   author:       "JEAbarro"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "Kind of like your average 'hello world', but it isn't software."      # One line description of what your project does
+  description:  "Kind of like your average 'hello world', but it isn't software programming."      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 

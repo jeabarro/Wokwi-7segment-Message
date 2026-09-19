@@ -1,7 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Wokwi Project Template
-
+# Bootcamp 2026 looping message in a 7-segment display.
+JEAbarro
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?

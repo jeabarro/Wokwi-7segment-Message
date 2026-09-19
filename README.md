@@ -2,6 +2,8 @@
 
 # Bootcamp 2026 looping message in a 7-segment display.
 JEAbarro
+
+Pretty much bare bones.
 - [Read the documentation for project](docs/info.md)
 
 ## What is Tiny Tapeout?

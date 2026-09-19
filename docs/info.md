@@ -13,8 +13,8 @@ The wokwi project simulates a 7-segment character sequence controlled by a step 
 
 ## How to test
 
-Connect/view in a 7segment display, route two button input push button pins as well (step, and reset)
+press the step push button so the next character in the sequence shows up in the display. Press the reset to restart the sequence. The led is a power indicator.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7-seg, 2button pin, led, switch, and resistor. 

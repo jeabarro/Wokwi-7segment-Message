@@ -13,7 +13,7 @@ The wokwi project simulates a 7-segment character sequence controlled by a step 
 
 ## How to test
 
-Explain how to use your project
+Connect/view in a 7segment display, route two button input push button pins as well (step, and reset)
 
 ## External hardware
 

@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The wokwi project simulates a 7-segment character sequence controlled by a step button. for each character to show up, a set of leds inside the 7-segment display is lit up every step. At the end of the character sequence, the message loops again. 
 
 ## How to test
 
